@@ -1,3 +1,3 @@
 # kalkulator-ngojek
 
-Ribet ngitung manual? Pake ini.
+Ribet ngitung keuntungan? Pake ini.
